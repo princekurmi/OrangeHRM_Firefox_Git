@@ -1,0 +1,1 @@
+pytest -v -m sanity --html=Reports/SanitestEdge.html --browser edge

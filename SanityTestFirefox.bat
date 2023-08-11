@@ -1,0 +1,1 @@
+pytest -v -m sanity --html=Reports/SanitestFirefox.html --browser firefox -p no:warnings
